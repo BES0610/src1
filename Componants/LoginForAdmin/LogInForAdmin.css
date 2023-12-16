@@ -1,0 +1,100 @@
+.LogInBoxAdmin{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    height: 300px
+}
+.LogInBoxAdmin .LogInForAdminText{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 59px;
+}
+.LogInBoxAdmin .H1tex{
+    font-family: var(--ScoFont-Family);
+    font-size: 35px;
+    margin: 0 0 0 5px;
+}
+.SupmitForm{
+    width: 100%;
+    height: 55%;  
+    margin-top: 18px;
+
+}
+.LogInBoxAdmin .InptCont{
+    width: 100%;
+    height: 60px;
+    margin-left: 15px;
+}
+.LogInBoxAdmin .TextInput{
+    font-family: var(--MinFont-Family);
+    font-size: 19px;
+    font-weight: 500;
+    margin: 5px;
+}
+.LogInBoxAdmin input{
+    margin-left: 17px;
+    width: 80%;
+    height: 23px;
+    border-radius: 3px;
+    border: 1px solid #c5c4c4;
+}
+.LogInBoxAdmin input:focus{
+    outline: none;
+}
+.LogInBoxAdmin .LogInBTN{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    margin-top:12px;
+}
+.LogInBoxAdmin .LogInForAdminBtns{
+        width: 100%;
+        height: 38px;
+        display: flex;
+        margin-bottom: 12px;
+    }
+.LogInBoxAdmin .LogInForAdminBtns .Contaner{
+        width: calc(100% / 1 - 35px);
+        margin-left: 5%;
+        height: 50px;
+        border: 1px solid;
+        border-radius: 20px;
+        padding-left: 33px;
+        padding-top: 3px;
+}
+.LogInBoxAdmin .LogInForAdminBtns .Contaner .RegsBTN{
+        color: var(--main-color);
+        font-size: 23px;
+        font-weight: 700;
+        text-align: start;
+        background-color: transparent;
+        border: none;
+}
+.Arrow{
+    width: 20px;
+    float: right;
+    position: relative;
+    top: 7px;
+    right: 10px;
+}
+.widthBtn{
+    margin-left: -8px;  
+}
+.margin-left{
+    margin-left: 84px;
+}
+.LINKE1{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    margin-bottom: 12px;
+}
+.ToResetPass{
+    width: 180px;
+    height: 30px;
+    margin-top: 45px;
+}

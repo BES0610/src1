@@ -1,0 +1,128 @@
+.LogInBox{
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 320px;
+    height: 300px
+}
+.LogInBox .Buttons{
+    position: "relative";
+    margin: "auto";
+    top: "0";
+    right: "0";
+    bottom: "0";
+    left: "0";
+    width: "300px";
+}
+.LogInBox .H1tex{
+    font-family: var(--ScoFont-Family);
+    font-size: 35px;
+    margin: 0 0 0 5px;
+    border-bottom: 3px solid #e9e9e9;
+}
+.LogInBox .SupmitForm{
+    width: 100%;
+    height: 66%;    
+    margin-top: 18px;
+
+}
+.LogInBox .InptCont{
+    margin: 6px;
+    width: 95%;
+    height: 50px;
+    position: relative; 
+}
+.LogInBox .InptCont .ImgAndTilte{
+    display: flex;
+}
+.LogInBox .InptCont  .ImgeInput{
+    font-family: var(--MinFont-Family);
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+}
+
+.LogInBox .InptCont .ImgAndTilte .title{
+    font-size: 18px;
+    margin-top: 2px;
+}
+.LogInBox .InptCont .RegInput{
+    margin-left:4px;
+    width: 60%;
+    height: 26px;
+    border-radius: 3px;
+    border: transparent;
+    border-bottom: 1px solid black;
+    background: transparent;
+    position: absolute;
+    right: 0;
+}
+.LogInBox .InptCont .ErrorText span{
+    color: red;
+    font-size: 14px;
+    font-family: tahoma;
+}
+.LogInBox .InptCont .ErrorText{
+    color: red;
+    display: block;
+}
+
+.LogInBox input:focus{
+    outline: none;
+}
+.LogInBox .RegisterBtns{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    margin-bottom: 12px;
+}
+.Contaner{
+    width: calc(100% / 1 - 35px);
+    margin-left: 5%;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 20px;
+    padding-left: 33px;
+    padding-top: 3px;
+}
+.RegsBTN{
+    color: var(--main-color);
+    font-size: 23px;
+    font-weight: 700;
+    text-align: start;
+    background-color: transparent;
+    border: none;
+}
+.Arrow{
+    width: 20px;
+    float: right;
+    position: relative;
+    top: 7px;
+    right: 10px;
+}
+.posLink{
+    position: relative;
+    top: 15px;
+    left: 6px;
+}
+.widthBtn{
+    margin-left: -8px;  
+}
+.margin-left{
+    margin-left: 84px;
+}
+.LINKE1{
+    width: 100%;
+    height: 38px;
+    display: flex;
+    margin-bottom: 12px;
+}
+.ToForgitPass{
+    width: 180px;
+    height: 30px;
+    margin-top: -5px;
+}

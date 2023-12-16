@@ -1,0 +1,1433 @@
+    /* START REPORT 4 */
+            /* Start ScoCover-4 */
+            .ScoCover-4{
+                position: relative;
+            }
+            .ScoCover-4 .Text{
+                position: absolute;
+                top: 30%;
+                left: 26%;
+                font-size: 42px;
+                font-weight: 900;
+                font-family: var(--font-family);
+                color: white;
+            }
+            /* End ScoCover-4 */
+            /* Start BigOneGraph-4 */
+        .BigOneGraph-4{
+            position: relative;
+        }
+        .BigOneGraph-4 .IntroBatrn{
+            position: absolute;
+            left: 23%;
+        } 
+        .BigOneGraph-4 .TopTitle{
+            position: absolute;
+            top: 20%;
+            left: 43%;
+            width: 100px;
+            height: 100px;
+        } 
+        .BigOneGraph-4 .TopTitle span{
+            width: auto;
+            height: auto;
+            background-color: var(--BackGround-color-Blue);
+            font-size: 32px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            padding: 8px;
+            border-radius: 12px;
+        } 
+        .BigOneGraph-4 .BottomTitle{
+            position: absolute;
+            bottom: 0;
+            left: 42%;
+            width: 100px;
+            height: 100px;
+        } 
+        .BigOneGraph-4 .BottomTitle span{
+            width: auto;
+            height: auto;
+            background-color: var(--BackGround-color-Blue-Sco);
+            font-size: 32px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            padding: 8px;
+            border-radius: 12px;
+        } 
+
+        .BigOneGraph-4 .Graph-1{
+            position: absolute;
+            top: 523px;
+            left: 346px;
+            width: 420px;
+            height: 815px;
+            border-radius: 12px;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Top-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Top-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            bottom: 52%;
+            left: 50px;
+            background-color: #2f6588;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Top-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            bottom: 52%;
+            left: 185px;
+            background-color: #2f6588;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Top-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            bottom: 52%;
+            left: 310px;
+            background-color: #2f6588;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Bottom-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            top: 48.4%;
+            left: 50px;
+            background-color: #2f6588;
+            opacity: .5;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            top: 48.4%;
+            left: 185px;
+            background-color: #2f6588;
+            opacity: .5;
+        }
+        .BigOneGraph-4 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            top: 48.4%;
+            left: 310px;
+            background-color: #2f6588;
+            opacity: .5;
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox{
+            position: absolute;
+            top: -110px;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(1){
+            width: 100%;
+            /* height: 50%; */
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(1) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(3){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+        }
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(2) span,
+        .BigOneGraph-4 .Graph-1 .TopBox div:nth-child(3) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox{
+            position: absolute;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(3){
+            width: 100%;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(3) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+            margin-top: 12px;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(1){
+            width: 100%;
+            height: 25%;
+            margin-left: -23px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -28px;
+        }
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(1) span,
+        .BigOneGraph-4 .Graph-1 .BottomBox div:nth-child(2) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+    
+        /* End BigOneGraph-4 */
+    
+    /* Start ManyBox-1 */
+    .ManyBox-1{
+        position: relative;
+    }
+    .ManyBox-1 .IntroBatrn{
+        position: absolute;
+        left: 23%;
+    } 
+    .ManyBox-1 .ManyBoxesBox{
+        width: 835px;
+        height: 347px;
+        border-radius: 20px;
+    }
+
+    .ManyBox-1 .ManyBoxesBox .LiftBox{
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .TopTitle{
+        position: relative;
+        top: 15px;
+        left: 18%;
+        width: 70%;
+        height: 25px;
+        font-size: 14px;
+        font-weight: 600;
+        text-align: right;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+        position: relative;
+        top: 25px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 55px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .CenterBox{
+        position: relative;
+        top: 40px;
+        left: 14px;
+        margin: auto;
+        width: 87%;
+        height: 155px;
+        border-radius: 20px;
+        display: flex;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .CenterBox div{ 
+        width: 80px;
+        height: 50px;
+        border: 1px solid white;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 27px;
+        font-size: 14px;
+        padding: 8px;
+        padding-top: 10px;
+        text-align: center;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+        border: transparent;
+    }
+
+    .ManyBox-1 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+        position: relative;
+        top: 40px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+        margin-bottom: 8px;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 57px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-1 .ManyBoxesBox .LiftBox .BottumTitle{
+        position: relative;
+        top: 50px;
+        left: 25%;
+        width: 70%;
+        height: 25px;
+        text-align: right;
+        font-family: var(--font-family);
+        font-weight: 900;
+        color: white;
+        font-size: 14px;
+    }
+    .ManyBox-1 .ManyBoxesBox .RightBox {
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+        position: relative;
+        top: -130px;
+    }
+    .ManyBox-1 .ManyBoxesBox .RightBox .BOX{
+        position: relative;
+        top: 80px;
+        margin: auto;
+        width: 79%;
+        height: 240px;
+        border-radius: 20px;
+    }
+    .ManyBox-1 .ManyBoxesBox .RightBox .BOX span{
+        color: var(--Font-Color);
+        position: relative;
+        text-align: right;
+        font-size: 8px;
+        font-weight: 600;
+        font-family: var(--font-family);
+    }
+
+    /* End ManyBox-1 */
+
+        /* Start ManyBox-2 */
+
+        .ManyBox-2{
+            position: relative;
+        }
+
+        .ManyBox-2 .ManyBoxesBox{
+            width: 835px;
+            height: 347px;
+            border-radius: 20px;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox{
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .TopTitle{
+            position: relative;
+            top: 15px;
+            left: 18%;
+            width: 70%;
+            height: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: right;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+            position: relative;
+            top: 25px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 55px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .CenterBox{
+            position: relative;
+            top: 40px;
+            left: 14px;
+            margin: auto;
+            width: 87%;
+            height: 155px;
+            border-radius: 20px;
+            display: flex;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .CenterBox div{ 
+            width: 80px;
+            height: 50px;
+            border: 1px solid white;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 27px;
+            font-size: 14px;
+            padding: 8px;
+            padding-top: 10px;
+            text-align: center;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            border: transparent;
+        }
+    
+        .ManyBox-2 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+            position: relative;
+            top: 40px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+            margin-bottom: 8px;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 57px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-2 .ManyBoxesBox .LiftBox .BottumTitle{
+            position: relative;
+            top: 50px;
+            left: 25%;
+            width: 70%;
+            height: 25px;
+            text-align: right;
+            font-family: var(--font-family);
+            font-weight: 900;
+            color: white;
+            font-size: 14px;
+        }
+        .ManyBox-2 .ManyBoxesBox .RightBox {
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+            position: relative;
+            top: -130px;
+        }
+        .ManyBox-2 .ManyBoxesBox .RightBox .BOX{
+            position: relative;
+            top: 80px;
+            margin: auto;
+            width: 79%;
+            height: 240px;
+            border-radius: 20px;
+        }
+        .ManyBox-2 .ManyBoxesBox .RightBox .BOX span{
+            color: var(--Font-Color);
+            position: relative;
+            text-align: right;
+            font-size: 8px;
+            font-weight: 600;
+            font-family: var(--font-family);
+        }
+    
+        /* End ManyBox-2 */
+
+            /* Start ManyBox-3 */
+
+    .ManyBox-3{
+        position: relative;
+    }
+    .ManyBox-3 .ManyBoxesBox{
+        width: 835px;
+        height: 347px;
+        border-radius: 20px;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox{
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .TopTitle{
+        position: relative;
+        top: 15px;
+        left: 18%;
+        width: 70%;
+        height: 25px;
+        font-size: 14px;
+        font-weight: 600;
+        text-align: right;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+        position: relative;
+        top: 25px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 55px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .CenterBox{
+        position: relative;
+        top: 40px;
+        left: 14px;
+        margin: auto;
+        width: 87%;
+        height: 155px;
+        border-radius: 20px;
+        display: flex;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .CenterBox div{ 
+        width: 80px;
+        height: 50px;
+        border: 1px solid white;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 27px;
+        font-size: 14px;
+        padding: 8px;
+        padding-top: 10px;
+        text-align: center;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+        border: transparent;
+    }
+
+    .ManyBox-3 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+        position: relative;
+        top: 40px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+        margin-bottom: 8px;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 57px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-3 .ManyBoxesBox .LiftBox .BottumTitle{
+        position: relative;
+        top: 50px;
+        left: 25%;
+        width: 70%;
+        height: 25px;
+        text-align: right;
+        font-family: var(--font-family);
+        font-weight: 900;
+        color: white;
+        font-size: 14px;
+    }
+    .ManyBox-3 .ManyBoxesBox .RightBox {
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+        position: relative;
+        top: -130px;
+    }
+    .ManyBox-3 .ManyBoxesBox .RightBox .BOX{
+        position: relative;
+        top: 80px;
+        margin: auto;
+        width: 79%;
+        height: 240px;
+        border-radius: 20px;
+    }
+    .ManyBox-3 .ManyBoxesBox .RightBox .BOX span{
+        color: var(--Font-Color);
+        position: relative;
+        text-align: right;
+        font-size: 8px;
+        font-weight: 600;
+        font-family: var(--font-family);
+    }
+
+    /* End ManyBox-3 */
+        /* Start BigOneGraph-5 */
+        .BigOneGraph-5{
+            position: relative;
+        }
+        .BigOneGraph-5 .IntroBatrn{
+            position: absolute;
+            left: 23%;
+        } 
+        .BigOneGraph-5 .Graph-1{
+            position: absolute;
+            top: 523px;
+            left: 346px;
+            width: 420px;
+            height: 815px;
+            border-radius: 12px;
+        }
+        .BigOneGraph-5 .TopTitle{
+            position: absolute;
+            top: 20%;
+            left: 43%;
+            width: 100px;
+            height: 100px;
+        } 
+        .BigOneGraph-5 .TopTitle span{
+            width: auto;
+            height: auto;
+            background-color: var(--BackGround-color-Gray);
+            font-size: 32px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            padding: 8px;
+            border-radius: 12px;
+        } 
+        .BigOneGraph-5 .BottomTitle{
+            position: absolute;
+            bottom: 0;
+            left: 42%;
+            width: 100px;
+            height: 100px;
+        } 
+        .BigOneGraph-5 .BottomTitle span{
+            width: auto;
+            height: auto;
+            background-color: var(--BackGround-color-Gray-Sco);
+            font-size: 32px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            padding: 8px;
+            border-radius: 12px;
+        } 
+        .BigOneGraph-5 .Graph-1 .Graph-Top-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Top-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            bottom: 52%;
+            left: 50px;
+            background-color: var(--BackGround-color-Gray);
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Top-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            bottom: 52%;
+            left: 185px;
+            background-color: var(--BackGround-color-Gray);
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Top-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            bottom: 52%;
+            left: 310px;
+            background-color: var(--BackGround-color-Gray);
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Bottom-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            top: 48.4%;
+            left: 50px;
+            background-color: var(--BackGround-color-Gray);
+            opacity: .5;
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            top: 48.4%;
+            left: 185px;
+            background-color: var(--BackGround-color-Gray);
+            opacity: .5;
+        }
+        .BigOneGraph-5 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            top: 48.4%;
+            left: 310px;
+            background-color: var(--BackGround-color-Gray);
+            opacity: .5;
+        }
+    
+        .BigOneGraph-5 .Graph-1 .TopBox{
+            position: absolute;
+            top: -110px;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(1){
+            width: 100%;
+        }
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(1) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(3){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+        }
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(2) span,
+        .BigOneGraph-5 .Graph-1 .TopBox div:nth-child(3) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox{
+            position: absolute;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(3){
+            width: 100%;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(3) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+            margin-top: 12px;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(1){
+            width: 100%;
+            height: 25%;
+            margin-left: -23px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -28px;
+        }
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(1) span,
+        .BigOneGraph-5 .Graph-1 .BottomBox div:nth-child(2) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+                    
+        /* End BigOneGraph-4 */
+        /* Start ManyBox-4 */
+        .ManyBox-4{
+            position: relative;
+        }
+        .ManyBox-4 .IntroBatrn{
+            position: absolute;
+            left: 23%;
+        } 
+        .ManyBox-4 .ManyBoxesBox{
+            width: 835px;
+            height: 347px;
+            border-radius: 20px;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox{
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .TopTitle{
+            position: relative;
+            top: 15px;
+            left: 18%;
+            width: 70%;
+            height: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: right;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+            position: relative;
+            top: 25px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 55px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .CenterBox{
+            position: relative;
+            top: 40px;
+            left: 14px;
+            margin: auto;
+            width: 87%;
+            height: 155px;
+            border-radius: 20px;
+            display: flex;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .CenterBox div{ 
+            width: 80px;
+            height: 50px;
+            border: 1px solid white;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 27px;
+            font-size: 14px;
+            padding: 8px;
+            padding-top: 10px;
+            text-align: center;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            border: transparent;
+        }
+    
+        .ManyBox-4 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+            position: relative;
+            top: 40px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+            margin-bottom: 8px;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 57px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-4 .ManyBoxesBox .LiftBox .BottumTitle{
+            position: relative;
+            top: 50px;
+            left: 25%;
+            width: 70%;
+            height: 25px;
+            text-align: right;
+            font-family: var(--font-family);
+            font-weight: 900;
+            color: white;
+            font-size: 14px;
+        }
+        .ManyBox-4 .ManyBoxesBox .RightBox {
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+            position: relative;
+            top: -130px;
+        }
+        .ManyBox-4 .ManyBoxesBox .RightBox .BOX{
+            position: relative;
+            top: 80px;
+            margin: auto;
+            width: 79%;
+            height: 240px;
+            border-radius: 20px;
+        }
+        .ManyBox-4 .ManyBoxesBox .RightBox .BOX span{
+            color: var(--Font-Color);
+            position: relative;
+            text-align: right;
+            font-size: 8px;
+            font-weight: 600;
+            font-family: var(--font-family);
+        }
+    
+        /* End ManyBox-4 */
+
+            /* Start ManyBox-5 */
+
+    .ManyBox-5{
+        position: relative;
+    }
+    .ManyBox-5 .ManyBoxesBox{
+        width: 835px;
+        height: 347px;
+        border-radius: 20px;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox{
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .TopTitle{
+        position: relative;
+        top: 15px;
+        left: 18%;
+        width: 70%;
+        height: 25px;
+        font-size: 14px;
+        font-weight: 600;
+        text-align: right;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+        position: relative;
+        top: 25px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 55px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .CenterBox{
+        position: relative;
+        top: 40px;
+        left: 14px;
+        margin: auto;
+        width: 87%;
+        height: 155px;
+        border-radius: 20px;
+        display: flex;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .CenterBox div{ 
+        width: 80px;
+        height: 50px;
+        border: 1px solid white;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 27px;
+        font-size: 14px;
+        padding: 8px;
+        padding-top: 10px;
+        text-align: center;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+        border: transparent;
+    }
+
+    .ManyBox-5 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+        position: relative;
+        top: 40px;
+        left: 11%;
+        width: 86%;
+        height: 30px;
+        display: flex;
+        margin-bottom: 8px;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+        width: 40px;
+        height: 20px;
+        background-color: transparent;
+        border: 1px solid white;
+        border-radius: 4px;
+        padding: 3px;
+        margin: 8px;
+        margin-left: 57px;
+        font-size: 8px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    .ManyBox-5 .ManyBoxesBox .LiftBox .BottumTitle{
+        position: relative;
+        top: 50px;
+        left: 25%;
+        width: 70%;
+        height: 25px;
+        text-align: right;
+        font-family: var(--font-family);
+        font-weight: 900;
+        color: white;
+        font-size: 14px;
+    }
+    .ManyBox-5 .ManyBoxesBox .RightBox {
+        width: 50%;
+        height: 100%;
+        display: inline-block;
+        position: relative;
+        top: -130px;
+    }
+    .ManyBox-5 .ManyBoxesBox .RightBox .BOX{
+        position: relative;
+        top: 80px;
+        margin: auto;
+        width: 79%;
+        height: 240px;
+        border-radius: 20px;
+    }
+    .ManyBox-5 .ManyBoxesBox .RightBox .BOX span{
+        color: var(--Font-Color);
+        position: relative;
+        text-align: right;
+        font-size: 8px;
+        font-weight: 600;
+        font-family: var(--font-family);
+    }
+
+    /* End ManyBox-5 */
+        /* Start ManyBox-4 */
+
+        .ManyBox-6{
+            position: relative;
+        }
+        .ManyBox-6 .ManyBoxesBox{
+            width: 835px;
+            height: 347px;
+            border-radius: 20px;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox{
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .TopTitle{
+            position: relative;
+            top: 15px;
+            left: 18%;
+            width: 70%;
+            height: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: right;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .TopTitleBoxs{
+            position: relative;
+            top: 25px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .TopTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 55px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .CenterBox{
+            position: relative;
+            top: 40px;
+            left: 14px;
+            margin: auto;
+            width: 87%;
+            height: 155px;
+            border-radius: 20px;
+            display: flex;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .CenterBox div{ 
+            width: 80px;
+            height: 50px;
+            border: 1px solid white;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 27px;
+            font-size: 14px;
+            padding: 8px;
+            padding-top: 10px;
+            text-align: center;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            border: transparent;
+        }
+    
+        .ManyBox-6 .ManyBoxesBox .LiftBox .BottumTitleBoxs{
+            position: relative;
+            top: 40px;
+            left: 11%;
+            width: 86%;
+            height: 30px;
+            display: flex;
+            margin-bottom: 8px;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .BottumTitleBoxs div{
+            width: 40px;
+            height: 20px;
+            background-color: transparent;
+            border: 1px solid white;
+            border-radius: 4px;
+            padding: 3px;
+            margin: 8px;
+            margin-left: 57px;
+            font-size: 8px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        .ManyBox-6 .ManyBoxesBox .LiftBox .BottumTitle{
+            position: relative;
+            top: 50px;
+            left: 25%;
+            width: 70%;
+            height: 25px;
+            text-align: right;
+            font-family: var(--font-family);
+            font-weight: 900;
+            color: white;
+            font-size: 14px;
+        }
+        .ManyBox-6 .ManyBoxesBox .RightBox {
+            width: 50%;
+            height: 100%;
+            display: inline-block;
+            position: relative;
+            top: -130px;
+        }
+        .ManyBox-6 .ManyBoxesBox .RightBox .BOX{
+            position: relative;
+            top: 80px;
+            margin: auto;
+            width: 79%;
+            height: 240px;
+            border-radius: 20px;
+        }
+        .ManyBox-6 .ManyBoxesBox .RightBox .BOX span{
+            color: var(--Font-Color);
+            position: relative;
+            text-align: right;
+            font-size: 8px;
+            font-weight: 600;
+            font-family: var(--font-family);
+        }
+    
+        /* End ManyBox-6 */
+        /* Start BigOneGraph-6 */
+    .BigOneGraph-6{
+        position: relative;
+    }
+    .BigOneGraph-6 .IntroBatrn{
+        position: absolute;
+        left: 23%;
+    } 
+    .BigOneGraph-6 .Graph-1{
+        position: absolute;
+        top: 523px;
+        left: 346px;
+        width: 420px;
+        height: 815px;
+        border-radius: 12px;
+    }
+    .BigOneGraph-6 .TopTitle{
+        position: absolute;
+        top: 20%;
+        left: 45%;
+        width: 100px;
+        height: 100px;
+    } 
+    .BigOneGraph-6 .TopTitle span{
+        width: auto;
+        height: auto;
+        background-color: var(--BackGround-color-Red);
+        font-size: 32px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        padding: 8px;
+        border-radius: 12px;
+    } 
+    .BigOneGraph-6 .BottomTitle{
+        position: absolute;
+        bottom: 0;
+        left: 42%;
+        width: 100px;
+        height: 100px;
+    } 
+    .BigOneGraph-6 .BottomTitle span{
+        width: auto;
+        height: auto;
+        background-color: var(--BackGround-color-Red-Sco);
+        font-size: 32px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        padding: 8px;
+        border-radius: 12px;
+    } 
+    .BigOneGraph-6 .Graph-1 .Graph-Top-1{ 
+        width: 100%;
+        height: 50%;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Top-1 .Canvas:nth-child(1){ 
+        position: absolute;
+        bottom: 52%;
+        left: 50px;
+        background-color: #9b3732;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Top-1 .Canvas:nth-child(2){ 
+        position: absolute;
+        bottom: 52%;
+        left: 185px;
+        background-color: #9b3732;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Top-1 .Canvas:nth-child(3){ 
+        position: absolute;
+        bottom: 52%;
+        left: 310px;
+        background-color: #9b3732;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Bottom-1{ 
+        width: 100%;
+        height: 50%;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(1){ 
+        position: absolute;
+        top: 48.4%;
+        left: 50px;
+        background-color: #9b3732;
+        opacity: .5;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(2){ 
+        position: absolute;
+        top: 48.4%;
+        left: 185px;
+        background-color: #9b3732;
+        opacity: .5;
+    }
+    .BigOneGraph-6 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(3){ 
+        position: absolute;
+        top: 48.4%;
+        left: 310px;
+        background-color: #9b3732;
+        opacity: .5;
+    }
+
+    .BigOneGraph-6 .Graph-1 .TopBox{
+        position: absolute;
+        top: -110px;
+        width: 545px;
+        height: 100px;
+    }
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(1){
+        width: 100%;
+    }
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(1) span{
+        display: inline-block;
+        margin-left: 169px;
+        width: 35%;
+        height: 90%;
+        border-radius: 16px;
+        font-size: 23px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+        text-align: center;
+        background-color: #585a5b;
+    }
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(2){
+        width: 100%;
+        height: 25%;
+        margin-left: -18px;
+        margin-bottom: 20px;
+    }
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(3){
+        width: 100%;
+        height: 25%;
+        margin-left: -18px;
+    }
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(2) span,
+    .BigOneGraph-6 .Graph-1 .TopBox div:nth-child(3) span
+    {
+        display: inline-block;
+        margin-left: 12px;
+        width: 100px;
+        height: 100%;
+        border-radius: 16px;
+        font-size: 26px;
+        font-weight: 500;
+        font-family: var(--font-family);
+        color: var(--Font-Color);
+        text-align: center;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox{
+        position: absolute;
+        width: 545px;
+        height: 100px;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(3){
+        width: 100%;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(3) span{
+        display: inline-block;
+        margin-left: 169px;
+        width: 35%;
+        height: 90%;
+        border-radius: 16px;
+        font-size: 23px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+        text-align: center;
+        background-color: #585a5b;
+        margin-top: 12px;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(1){
+        width: 100%;
+        height: 25%;
+        margin-left: -23px;
+        margin-bottom: 20px;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(2){
+        width: 100%;
+        height: 25%;
+        margin-left: -28px;
+    }
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(1) span,
+    .BigOneGraph-6 .Graph-1 .BottomBox div:nth-child(2) span
+    {
+        display: inline-block;
+        margin-left: 12px;
+        width: 100px;
+        height: 100%;
+        border-radius: 16px;
+        font-size: 26px;
+        font-weight: 500;
+        font-family: var(--font-family);
+        color: var(--Font-Color);
+        text-align: center;
+    }
+
+    /* End BigOneGraph-5 */
+    /* END REPORT 4 */

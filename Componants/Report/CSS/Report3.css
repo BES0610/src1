@@ -1,0 +1,617 @@
+
+    /* START REPORT 3 */
+
+    /* Start ManyBox-2Report-3 */
+    .ManyBox-2Report-3{
+        position: relative;
+    }
+    .ManyBox-2Report-3 .IntroBatrn{
+        position: absolute;
+        left: 22%;
+    } 
+    .ManyBox-2Report-3 .BoxsContaner{
+        position: absolute;
+        top: 314px;
+        left: 135px;
+        width: 835px;
+        height: 1050px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .SmallBox{ 
+        width: 100%;
+        height: 80px;
+        display: flex;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .SmallBox div:nth-child(1){ 
+        width: 50%;
+        text-align: right;
+        margin: 23px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .SmallBox div:nth-child(1) span{ 
+        background-color: var(--BackGround-color-Gray-Sco);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .SmallBox div:nth-child(2){ 
+        width: 50%;
+        text-align: left;
+        margin: 23px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .SmallBox div:nth-child(2) span{ 
+        background-color: var(--BackGround-color-Gray);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+
+    .ManyBox-2Report-3 .BoxsContaner .BigBox{
+        position: relative;
+        width: 100%;
+        height: 900px;
+        margin-top: 4px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs{
+        width: 100%;
+        height: 97px;
+        border-radius: 28px;
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs span{
+        font-size: 16px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        text-align: center;
+        color: white;
+        padding: 4px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1){
+        position: relative;
+        left: 20px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1) span{
+        position: relative;
+        top: 25%;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(2){
+        position: relative;
+        left: 50px;
+        width: 270px;
+        height: 100%;
+        text-align: center;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(3){
+        position: relative;
+        left: 42px;
+        width: 280px;
+        height: 100%;
+        text-align: center;
+        padding-left: 11px;
+        padding-right: 8px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4){
+        position: relative;
+        left: 68px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-2Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4) span{
+        position: relative;
+        top: 25%;
+    }
+        /* End ManyBox-2Report-3 */
+
+        /* Start Empaty-8Report3 */
+        .Empaty-8Report3{
+            position: relative;
+        }
+        .Empaty-8Report3 .IntroBatrn{
+            position: absolute;
+            left: 21%;
+        } 
+        .Empaty-8Report3 .H1Text{
+            position: absolute;
+            top: 12%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-8Report3 .BigText{
+            position: absolute;
+            top: 22%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+            /* End Empaty-8Report3 */
+
+            /* Start ManyBox-3Report-3 */
+    .ManyBox-3Report-3{
+        position: relative;
+    }
+    .ManyBox-3Report-3 .IntroBatrn{
+        position: absolute;
+        left: 23%;
+    } 
+    .ManyBox-3Report-3 .BoxsContaner{
+        position: absolute;
+        top: 320px;
+        left: 135px;
+        width: 835px;
+        height: 1050px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .SmallBox{ 
+        width: 100%;
+        height: 80px;
+        display: flex;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .SmallBox div:nth-child(1){ 
+        width: 50%;
+        text-align: right;
+        margin: 23px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .SmallBox div:nth-child(1) span{ 
+        background-color: var(--BackGround-color-Red-Sco);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .SmallBox div:nth-child(2){ 
+        width: 50%;
+        text-align: left;
+        margin: 23px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .SmallBox div:nth-child(2) span{ 
+        background-color: var(--BackGround-color-Red);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox{
+        position: relative;
+        width: 100%;
+        height: 900px;
+        margin-top: 4px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs{
+        width: 100%;
+        height: 97px;
+        border-radius: 28px;
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs span{
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        text-align: center;
+        color: white;
+        padding: 4px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1){
+        position: relative;
+        left: 20px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1) span{
+        position: relative;
+        top: 25%;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(2){
+        position: relative;
+        left: 50px;
+        width: 267px;
+        height: 100%;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(3){
+        position: relative;
+        left: 55px;
+        width: 267px;
+        height: 100%;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4){
+        position: relative;
+        left: 85px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-3Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4) span{
+        position: relative;
+        top: 25%;
+    }
+            /* End ManyBox-3Report-3 */
+
+            /* Start Empaty-9Report3 */
+        .Empaty-9Report3{
+            position: relative;
+        }
+        .Empaty-9Report3 .IntroBatrn{
+            position: absolute;
+            left: 23%;
+        } 
+        .Empaty-9Report3 .H1Text{
+            position: absolute;
+            top: 12%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-9Report3 .BigText{
+            position: absolute;
+            top: 22%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+            /* End Empaty-9Report3 */
+
+            /* Start ManyBox-4Report-3 */
+    .ManyBox-4Report-3{
+        position: relative;
+    }
+    .ManyBox-4Report-3 .IntroBatrn{
+        position: absolute;
+        left: 23%;
+    } 
+    .ManyBox-4Report-3 .BoxsContaner{
+        position: absolute;
+        top: 323px;
+        left: 135px;
+        width: 835px;
+        height: 1050px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .SmallBox{ 
+        width: 100%;
+        height: 80px;
+        display: flex;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .SmallBox div:nth-child(1){ 
+        width: 50%;
+        text-align: right;
+        margin: 23px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .SmallBox div:nth-child(1) span{ 
+        background-color: var(--BackGround-color-Green-Sco);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .SmallBox div:nth-child(2){ 
+        width: 50%;
+        text-align: left;
+        margin: 23px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .SmallBox div:nth-child(2) span{ 
+        background-color: var(--BackGround-color-Green);
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font-size: 18px;
+        font-weight: 600;
+        font-family: var(--font-family);
+        color: white;
+        border-radius: 12px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox{
+        position: relative;
+        width: 100%;
+        height: 900px;
+        margin-top: 4px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs{
+        width: 100%;
+        height: 97px;
+        border-radius: 28px;
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs span{
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        text-align: center;
+        color: white;
+        padding: 4px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1){
+        position: relative;
+        left: 20px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1) span{
+        position: relative;
+        top: 25%;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(2){
+        position: relative;
+        left: 53px;
+        width: 267px;
+        height: 100%;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(3){
+        position: relative;
+        left: 60px;
+        width: 267px;
+        height: 100%;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4){
+        position: relative;
+        left: 85px;
+        width: 100px;
+        height: 90%;
+        border-radius: 20px;
+    }
+    .ManyBox-4Report-3 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4) span{
+        position: relative;
+        top: 25%;
+    }
+        /* End ManyBox-4Report-3 */
+    /* Start ScoCover-3 */
+    .ScoCover-3{
+        position: relative;
+    }
+    .ScoCover-3 .Text{
+        position: absolute;
+        top: 30%;
+        left: 26%;
+        font-size: 42px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: white;
+    }
+    /* End ScoCover-3 */  
+        /* Start BigOneGraph-3 */
+        .BigOneGraph-3{
+            position: relative;
+        }
+        .BigOneGraph-3 .IntroBatrn{
+            position: absolute;
+            left: 26%;
+        } 
+        .BigOneGraph-3 .Graph-1{
+            position: absolute;
+            top: 523px;
+            left: 346px;
+            width: 420px;
+            height: 815px;
+            border-radius: 12px;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Top-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Top-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            bottom: 52%;
+            left: 50px;
+            background-color: #579e52;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Top-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            bottom: 52%;
+            left: 160px;
+            background-color: #9b3732;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Top-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            bottom: 52%;
+            left: 255px;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Top-1 .Canvas:nth-child(4){ 
+            position: absolute;
+            bottom: 52%;
+            left: 347px;
+            background-color: #2f6588;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Bottom-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            top: 48.4%;
+            left: 50px;
+            background-color: #83be68;
+            opacity: .5;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            top: 48.4%;
+            left: 160px;
+            background-color: #de6b64;
+            opacity: .5;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            top: 48.4%;
+            left: 255px;
+            background-color: #969899;
+            opacity: .5;
+        }
+        .BigOneGraph-3 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(4){ 
+            position: absolute;
+            top: 48.4%;
+            left: 347px;
+            background-color: var(--BackGround-color-Sco);
+            opacity: .5;
+        }
+    
+        .BigOneGraph-3 .Graph-1 .TopBox{
+            position: absolute;
+            top: -110px;
+            width: 450px;
+            height: 100px;
+        }
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(1){
+            width: 100%;
+        }
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(1) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(3){
+            width: 100%;
+            height: 25%;
+            margin-left: -18px;
+        }
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(2) span,
+        .BigOneGraph-3 .Graph-1 .TopBox div:nth-child(3) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox{
+            position: absolute;
+            width: 470px;
+            height: 100px;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(3){
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(3) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+            margin-top: 12px;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(1){
+            width: 100%;
+            height: 25%;
+            margin-left: -23px;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: -28Px;
+            margin-top: 18px;
+        }
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(1) span,
+        .BigOneGraph-3 .Graph-1 .BottomBox div:nth-child(2) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+        /* End BigOneGraph-3 */
+        /* Start Btn-1 */
+        .Btn-1{
+            position: relative;
+        }
+        .Btn-1 .IntroBatrn{
+            position: absolute;
+            left: 26%;
+        } 
+        /* End Btn-1 */
+        /* Start Btn-2 */
+        .Btn-2{
+            position: relative;
+        }
+        .Btn-2 .IntroBatrn{
+            position: absolute;
+            left: 26%;
+        } 
+        /* End Btn-2 */
+        /* Start Btn-3 */
+        .Btn-3{
+            position: relative;
+        }
+        .Btn-3 .IntroBatrn{
+            position: absolute;
+            left: 26%;
+        } 
+        /* End Btn-3 */
+        /* Start Btn-4 */
+        .Btn-4{
+            position: relative;
+        }
+        .Btn-4 .IntroBatrn{
+            position: absolute;
+            left: 26%;
+        } 
+        /* End Btn-4 */
+    
+/* END REPORT 3 */
