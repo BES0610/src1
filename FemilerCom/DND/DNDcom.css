@@ -1,0 +1,19 @@
+.DragAndDropCon{
+    position: relative;
+    bottom: -220px;
+    left: -680px;
+    width: 100px;
+    height: 100px;
+    border: 2px dashed #ccc;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.DNDBTN{
+    width: 70px;
+    height: 40px;
+    position: relative;
+    bottom: -150px;
+    left: -560px;
+}

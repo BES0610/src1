@@ -1,0 +1,24 @@
+.Footer{
+    width: 100%;
+    height: 227px;
+    background-color: var(--main-color);
+    position: absolute;
+    bottom: -185px;
+}
+.FooterSections{
+    
+}
+.SectionFooter{
+    display: inline-block;
+    margin-left: 20px;
+}
+.H3Footer{
+    color: #39AA35;
+}
+.UlFooter{
+
+}
+.LiFooter{
+    margin: 8px;
+    color: white;
+}

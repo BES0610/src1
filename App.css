@@ -1,0 +1,45 @@
+  @import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Caprasimo&family=Open+Sans:wght@400;600&family=Pacifico&family=Roboto+Condensed:wght@300;400;700&family=Roboto+Slab:wght@100;200;400&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Caprasimo&family=Open+Sans:wght@400;600&family=Pacifico&family=Roboto+Condensed:wght@300;400;700&family=Roboto+Slab:wght@100;200;400&family=Rubik&display=swap');
+  body{
+
+  font-family: 'Readex Pro', sans-serif;
+  /* font-family: Tajawal; */
+}
+:root{
+  --main-color:rgb(13, 81, 159);
+  --large-font-size:x-large;
+  --font-weight: 700;
+
+  --MinFont-Family: "Rubik variant0", Tofu;
+  --ScoFont-Family: 'Amiri', serif;
+
+}
+
+.display{
+  display: none;
+}
+.DisplayBlock{
+  display: block;
+
+}
+button{
+  cursor: pointer;
+}
+.RegsterBtn{
+  width: 120px;
+  display: inline-block;
+  margin: 12px;
+}
+.yallo{
+  color: yellow;
+}
+
+.blue{
+  color: blue;
+}
+.PostionForReportCom{
+  position: absolute;
+  top: 0;
+  left: -2000px;
+
+}
