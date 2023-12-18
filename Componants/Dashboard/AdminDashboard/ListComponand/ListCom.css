@@ -1,0 +1,44 @@
+.Pre{
+    width: 70%;
+    height: auto;
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.Graph{
+    width: 100%;
+    /* display: flex; */
+}
+.ToAddPageBtn{
+    width: 120px;
+}
+
+.DragFiles{
+    margin-top: 40px;
+    margin: 20px;
+    padding: 18px;
+    height: 250px;
+    display: flex;
+    width: 150px;
+    height: 130px;
+    border: 1px solid var(--main-color);
+    border-radius: 8px;
+}
+.BtnAddTest{
+    width: 130px;
+    height: 40px;
+}
+.DragFiles div:nth-child(1){
+
+}
+.DragFiles div:nth-child(2){
+
+}
+.DragFiles div:nth-child(3){
+
+}

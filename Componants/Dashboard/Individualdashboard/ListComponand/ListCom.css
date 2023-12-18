@@ -1,0 +1,16 @@
+.AllBtnCenterInd{
+    width: 85%;
+    position: relative;
+    /* left: 12%; */
+    top: 200px;
+    margin: auto;
+}
+.BtnCenterInd{
+    width: calc(100% / 2 - 18px);
+    height: 55px;
+    border: 2px solid rgb(7 70 142);
+    background: var(--main-color);
+    margin: 8px;
+    color: white;
+    font-size: 24px;
+}

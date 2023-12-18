@@ -1,0 +1,609 @@
+    /* START REPORT 2 */
+    
+    /* Start ManyPhraseInSkills-2 */
+    .ManyPhraseInSkills-2{
+        position: relative;
+    }
+    .ManyPhraseInSkills-2 .IntroBatrn{
+        position: absolute;
+        left: 25%;
+        top: 80px;
+    }
+    .ManyPhraseInSkills-2 .SmallIntroBatrn{
+        position: absolute;
+        top: 10.5%;
+        left: 41%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Gray);
+    }
+    .ManyPhraseInSkills-2 .SmallIntroBatrnBottom{
+        position: absolute;
+        bottom: 11%;
+        left: 42%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Gray-Sco);
+    }
+    .ManyPhraseInSkills-2 .ManyPhraseBox{
+        position: absolute;
+        top: 14%;
+        left: 27.1%;
+        width: 510px;
+        height: 1085px;
+    }
+    .ManyPhraseInSkills-2 .ManyPhraseBox .PhraseText{ 
+        position: relative;
+        top: 25px;
+        left: 10px;
+        width: 96%;
+        height: 53px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .ManyPhraseInSkills-2 .ManyPhraseBox .PhraseText span{
+        width: 100%;
+        height: 100%;
+        font-size: 16px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: var(--BackGround-color-Gray);
+    }
+    /* End ManyPhraseInSkills-2 */
+        /* Start Empaty-4Report2 */
+        .Empaty-4Report2{
+            position: relative;
+        }
+        .Empaty-4Report2 .IntroBatrn{
+            position: absolute;
+            left: 21%;
+        }
+
+        .Empaty-4Report2 .H1Text{
+            position: absolute;
+            top: 18%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-4Report2 .BigText{
+            position: absolute;
+            top: 26%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+        /* End Empaty-4Report2 */
+    
+    
+    /* Start ManyPhraseInSkills-3 */
+    .ManyPhraseInSkills-3{
+        position: relative;
+    }
+    .ManyPhraseInSkills-3 .IntroBatrn{
+        position: absolute;
+        left: 22%;
+        top: 100px;
+    }
+    .ManyPhraseInSkills-3 .SmallIntroBatrn{
+        position: absolute;
+        top: 12%;
+        left: 41%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Red);
+    }
+    .ManyPhraseInSkills-3 .SmallIntroBatrnBottom{
+        position: absolute;
+        bottom: 10%;
+        left: 42%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Red-Sco);
+    }
+    .ManyPhraseInSkills-3 .ManyPhraseBox{
+        position: absolute;
+        top: 16%;
+        left: 27.1%;
+        width: 510px;
+        height: 1085px;
+    }
+    .ManyPhraseInSkills-3 .ManyPhraseBox .PhraseText{ 
+        position: relative;
+        top: 25px;
+        left: 10px;
+        width: 96%;
+        height: 53px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .ManyPhraseInSkills-3 .ManyPhraseBox .PhraseText span{
+        width: 100%;
+        height: 100%;
+        font-size: 16px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: var(--BackGround-color-Red);
+    }
+    /* End ManyPhraseInSkills-3 */
+
+        /* Start Empaty-5Report2 */
+        .Empaty-5Report2{
+            position: relative;
+        }
+        .Empaty-5Report2 .IntroBatrn{
+            position: absolute;
+            left: 28%;
+        }
+        .Empaty-5Report2 .H1Text{
+            position: absolute;
+            top: 18%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-5Report2 .BigText{
+            position: absolute;
+            top: 26%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+        /* End Empaty-5Report2 */
+            /* Start ManyPhraseInSkills-4 */
+    .ManyPhraseInSkills-4{
+        position: relative;
+    }
+    .ManyPhraseInSkills-4 .IntroBatrn{
+        position: absolute;
+        left: 22%;
+        top: 110px;
+    }
+    .ManyPhraseInSkills-4 .SmallIntroBatrn{
+        position: absolute;
+        top: 12.5%;
+        left: 41%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Green);
+    }
+    .ManyPhraseInSkills-4 .SmallIntroBatrnBottom{
+        position: absolute;
+        bottom: 10%;
+        left: 42%;
+        width: auto;
+        height: auto;
+        padding: 12px;
+        color: white;
+        border-radius: 18px;
+        font-size: 18px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        background-color: var(--BackGround-color-Green-Sco);
+    }
+    .ManyPhraseInSkills-4 .ManyPhraseBox{
+        position: absolute;
+        top: 16.4%;
+        left: 27.1%;
+        width: 510px;
+        height: 1085px;
+    }
+    .ManyPhraseInSkills-4 .ManyPhraseBox .PhraseText{ 
+        position: relative;
+        top: 25px;
+        left: 10px;
+        width: 96%;
+        height: 53px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .ManyPhraseInSkills-4 .ManyPhraseBox .PhraseText span{
+        width: 100%;
+        height: 100%;
+        font-size: 16px;
+        font-weight: 900;
+        font-family: var(--font-family);
+        color: var(--BackGround-color-Green);
+    }
+    /* End ManyPhraseInSkills-2 */
+        /* Start ScoCover-2 */
+        .ScoCover-2{
+            position: relative;
+        }
+        .ScoCover-2 .Text{
+            position: absolute;
+            top: 30%;
+            left: 26%;
+            font-size: 42px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+        }
+        /* End ScoCover-2 */
+        /* Start BigOneGraph-2 */
+        .BigOneGraph-2{
+            position: relative;
+        }
+        .BigOneGraph-2 .IntroBatrn{
+            position: absolute;
+            left: 24%;
+        }   
+        .BigOneGraph-2 .BottomTitleGraph{
+            position: absolute;
+            left: 38%;
+            bottom: 8%;
+            font-size: 26px;
+            font-family: var(--font-family);
+            color: var(--BackGround-color-Blue);
+            font-weight: 900;
+        }   
+        .BigOneGraph-2 .Graph-1{
+            position: absolute;
+            top: 396px;
+            left: 273px;
+            width: 545px;
+            height: 815px;
+            border-radius: 12px;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Top-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Top-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            bottom: 50.1%;
+            left: 70px;
+            background-color: #579e52;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Top-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            bottom: 50.1%;
+            left: 170px;
+            background-color: #9b3732;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Top-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            bottom: 50.1%;
+            left: 275px;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Top-1 .Canvas:nth-child(4){ 
+            position: absolute;
+            bottom: 50.1%;
+            left: 390px;
+            background-color: #2f6588;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Bottom-1{ 
+            width: 100%;
+            height: 50%;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(1){ 
+            position: absolute;
+            top: 50.4%;
+            left: 70px;
+            background-color: #83be68;
+            opacity: .5;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(2){ 
+            position: absolute;
+            top: 50.4%;
+            left: 170px;
+            background-color: #de6b64;
+            opacity: .5;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(3){ 
+            position: absolute;
+            top: 50.4%;
+            left: 275px;
+            background-color: #969899;
+            opacity: .5;
+        }
+        .BigOneGraph-2 .Graph-1 .Graph-Bottom-1 .Canvas:nth-child(4){ 
+            position: absolute;
+            top: 50.4%;
+            left: 390px;
+            background-color: var(--BackGround-color-Sco);
+            opacity: .5;
+        }
+    
+        .BigOneGraph-2 .Graph-1 .TopBox{
+            position: absolute;
+            top: -110px;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(1){
+            width: 100%;
+        }
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(1) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+        }
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(3){
+            width: 100%;
+            height: 25%;
+            margin-left: 20px;
+        }
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(2) span,
+        .BigOneGraph-2 .Graph-1 .TopBox div:nth-child(3) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox{
+            position: absolute;
+            width: 545px;
+            height: 100px;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(3){
+            width: 100%;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(3) span{
+            display: inline-block;
+            margin-left: 169px;
+            width: 35%;
+            height: 90%;
+            border-radius: 16px;
+            font-size: 23px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            color: white;
+            text-align: center;
+            background-color: #585a5b;
+            margin-top: 12px;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(1){
+            width: 100%;
+            height: 25%;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(2){
+            width: 100%;
+            height: 25%;
+            margin-left: 20px;
+        }
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(1) span,
+        .BigOneGraph-2 .Graph-1 .BottomBox div:nth-child(2) span
+        {
+            display: inline-block;
+            margin-left: 12px;
+            width: 100px;
+            height: 100%;
+            border-radius: 16px;
+            font-size: 26px;
+            font-weight: 500;
+            font-family: var(--font-family);
+            color: var(--Font-Color);
+            text-align: center;
+        }
+    
+        /* End BigOneGraph-2 */
+    
+        /* Start Empaty-6Report2 */
+        .Empaty-6Report2{
+            position: relative;
+        }
+        .Empaty-6Report2 .IntroBatrn{
+            position: absolute;
+            left: 24%;
+        } 
+        .Empaty-6Report2 .H1Text{
+            position: absolute;
+            top: 18%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-6Report2 .BigText{
+            position: absolute;
+            top: 26%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+        /* End Empaty-6Report2 */
+
+        /* Start ManyBox-1Report-2 */
+        .ManyBox-1Report-2{
+            position: relative;
+        }
+        .ManyBox-1Report-2 .IntroBatrn{
+            position: absolute;
+            left: 22%;
+        } 
+        .ManyBox-1Report-2 .BoxsContaner{
+            position: absolute;
+            top: 314px;
+            left: 135px;
+            width: 835px;
+            height: 1050px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .SmallBox{ 
+            width: 100%;
+            height: 80px;
+            display: flex;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .SmallBox div:nth-child(1){ 
+            width: 50%;
+            text-align: right;
+            margin: 23px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .SmallBox div:nth-child(1) span{ 
+            background-color: var(--BackGround-color-Blue-Sco);
+            width: auto;
+            height: auto;
+            padding: 8px;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            border-radius: 12px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .SmallBox div:nth-child(2){ 
+            width: 50%;
+            text-align: left;
+            margin: 23px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .SmallBox div:nth-child(2) span{ 
+            background-color: var(--BackGround-color-Blue);
+            width: auto;
+            height: auto;
+            padding: 8px;
+            font-size: 18px;
+            font-weight: 600;
+            font-family: var(--font-family);
+            color: white;
+            border-radius: 12px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox{
+            position: relative;
+            width: 100%;
+            height: 900px;
+            margin-top: 4px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs{
+            width: 100%;
+            height: 97px;
+            border-radius: 28px;
+            margin-bottom: 10px;
+            display: flex;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs span{
+            font-size: 18px;
+            font-weight: 900;
+            font-family: var(--font-family);
+            text-align: center;
+            color: white;
+            padding: 4px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1){
+            position: relative;
+            left: 20px;
+            width: 100px;
+            height: 90%;
+            border-radius: 20px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(1) span{
+            position: relative;
+            top: 25%;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(2){
+            position: relative;
+            left: 40px;
+            width: 267px;
+            height: 100%;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(3){
+            position: relative;
+            left: 52px;
+            width: 267px;
+            height: 100%;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4){
+            position: relative;
+            left: 85px;
+            width: 100px;
+            height: 90%;
+            border-radius: 20px;
+        }
+        .ManyBox-1Report-2 .BoxsContaner .BigBox .DetilsBoxs .ImportBox:nth-child(4) span{
+            position: relative;
+            top: 25%;
+        }
+        /* End ManyBox-1Report-2 */
+
+        /* Start Empaty-7Report2 */
+        .Empaty-7Report2{
+            position: relative;
+        }
+        .Empaty-7Report2 .IntroBatrn{
+            position: absolute;
+            left: 23%;
+        } 
+        .Empaty-7Report2 .H1Text{
+            position: absolute;
+            top: 18%;
+            right: 50px;
+            color: var(--BackGround-color-Blue);
+            font-family: var(--font-family);
+            text-align: right;
+        }
+        .Empaty-7Report2 .BigText{
+            position: absolute;
+            top: 26%;
+            right: 50px;
+            color: var(--Font-Color);
+            font-family: var(--font-family);
+            text-align: right;
+            width: 90%;
+            font-size: 23px;
+        }
+        /* End Empaty-7Report2 */
+    
+    /* END REPORT 2 */
